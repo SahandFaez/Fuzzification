@@ -35,14 +35,11 @@ For each TFN, the crisp value is computed as:
 
 where:
 
-𝑙
-l = lower bound
+𝑙 = lower bound
 
-𝑚
-m = midpoint
+𝑚 = midpoint
 
-𝑢
-u = upper bound
+𝑢 = upper bound
 
 This produces a continuous fuzzy score in 
 [0 , 1]
